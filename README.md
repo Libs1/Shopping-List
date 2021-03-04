@@ -1,2 +1,2 @@
 # Shopping-List
-Zero-To-Mastery Shopping List Activity
+Shopping List (ZTM)
